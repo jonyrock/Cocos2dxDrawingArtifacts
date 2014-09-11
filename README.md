@@ -23,4 +23,4 @@ make run
 
 
 # How the bug may look like
-<img src="https://github.com/jonyrock/Cocos2dxDrawingArtifacts/tree/master/docs/Selection_032.png"> 
+<img src="https://github.com/jonyrock/Cocos2dxDrawingArtifacts/blob/master/docs/Selection_032.png"> 
