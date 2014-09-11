@@ -22,5 +22,8 @@ make run
 ... or you can do it in a different way but be sure that it will work for me
 
 
-# How the bug may look like
+## How the bug may look like
 <img src="https://github.com/jonyrock/Cocos2dxDrawingArtifacts/blob/master/docs/Selection_032.png"> 
+
+## Hint
+Artifacts disappear with text removing
