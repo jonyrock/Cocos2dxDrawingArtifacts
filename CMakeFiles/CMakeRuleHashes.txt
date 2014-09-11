@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+c706cc21ef8828c34bf7c2dbf96c7178 CMakeFiles/Cocos2dxDrawingArtifacts_CORE_PRE_BUILD
+c706cc21ef8828c34bf7c2dbf96c7178 CMakeFiles/Cocos2dxDrawingArtifacts_PRE_BUILD
